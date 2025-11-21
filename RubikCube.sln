@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02_dlim2227_3", "L02_dlim2227_3\L02_dlim2227_3.csproj", "{F47B75E7-DFF5-412A-B7E4-5931F113E4D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubikCube", "RubikCube\RubikCube.csproj", "{F47B75E7-DFF5-412A-B7E4-5931F113E4D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
